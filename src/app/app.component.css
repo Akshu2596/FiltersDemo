@@ -1,0 +1,25 @@
+table{
+    padding-top: 0.5rem;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th{
+    padding: 20px;
+    width: 25%;
+    padding: 8px;
+}
+button{
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color: coral;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    
+}
+.search-card button{
+    margin-top: 0.5rem;
+
+}
